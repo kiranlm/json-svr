@@ -20,7 +20,7 @@
        
       ],
       "appliedConsortium":"",
-      "createdBy":1
+      "createdBy":"insurer1"
     },
     {
       "id":2,
@@ -37,7 +37,7 @@
  
       ],
       "appliedConsortium":"",
-      "createdBy":1
+      "createdBy":"insurer1"
     },
     {
       "id":3,
@@ -54,7 +54,7 @@
  
       ],
       "appliedConsortium":"",
-      "createdBy":1
+      "createdBy":"insurer2"
     },
     {
       "id":4,
