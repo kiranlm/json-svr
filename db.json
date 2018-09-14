@@ -13,9 +13,9 @@
       "approved":false,
       "flagType":"Cancellation",
       "criticality":3,
-      "dept":"Test",
-      "cplNum":"CCCfefsdf",
-      "policyNum":"policyNum",
+      "dept":"Insurance & Annuties",
+      "cplNum":"KIA233122",
+      "policyNum":"243AIK77973",
       "consortiums":[
        
       ],
@@ -28,11 +28,11 @@
       "summary":"Requested for capital preservation, safety and security but the agent ...",
       "content":"Requested policy surrender in march but was not surrendered…",
       "approved":false,
-      "flagType":"tetetet",
+      "flagType":"Miscellaneous",
       "criticality":2,
-      "dept":"Test",
-      "cplNum":"CCCfefsdf",
-      "policyNum":"policyNum",
+      "dept":"Insurance & Annuties",
+      "cplNum":"KIA233166",
+      "policyNum":"243AIK779785",
       "consortiums":[
  
       ],
@@ -45,11 +45,11 @@
       "summary":"Requested for capital preservation, safety and security but the agent ...",
       "content":"Requested policy surrender in march but was not surrendered…",
       "approved":false,
-      "flagType":"ttttt",
+      "flagType":"Delays",
       "criticality":2,
-      "dept":"Test",
-      "cplNum":"CCCfefsdf",
-      "policyNum":"policyNum",
+      "dept":"Insurance & Annuties",
+      "cplNum":"KIA255166",
+      "policyNum":"243AIK87973",
       "consortiums":[
  
       ],
@@ -62,16 +62,16 @@
       "summary":"Requested for capital preservation, safety and security but the agent ...",
       "content":"<div class='item'>Requested policy surrender in march but was not surrendered…</div>",
       "approved":false,
-      "flagType":"eghdgdg",
+      "flagType":"Misrepresentation",
       "criticality":1,
-      "dept":"Test",
-      "cplNum":"CCCfefsdf",
-      "policyNum":"policyNum",
+      "dept":"Annuties",
+      "cplNum":"KIA255856",
+      "policyNum":"243AIK86973",
       "consortiums":[
  
       ],
       "appliedConsortium":"",
-      "createdBy":1
+      "createdBy":"insurer2"
     }
    
   ],
@@ -101,6 +101,7 @@
       "triggerFactors":"Acceptance and Release of all Claims Complete",
       "acttionDetails":"Cancelled policy and paid entire value of initial investment for 11 securities $250,000 USD for mis-selling of the product",
       "status":"approved",
+      "createdBy":"insurer1",
       "createdDate":"27MAY2018"
     },
     {
@@ -111,6 +112,7 @@
       "triggerFactors":"Acceptance and Release of all Claims Complete",
       "acttionDetails":"Cancelled policy and paid entire value of initial investment for 11 securities $250,000 USD for mis-selling of the product",
       "status":"approved",
+      "createdBy":"insurer1",
       "createdDate":"27MAY2018"
     },
     {
@@ -120,7 +122,8 @@
       "totalCost":"<div class='item'>Validated if Agent  was sanctioned by NASD</div><div class='item'>Validated if Agent is licensed by FINRA</div><div class='item'>Risk class of security sold</div><div class='item'>Validate if age of customer greater than 60 years</div><div class='item'>Years policy has been active</div><div class='item'>Decline in policy value greater than 20% of value at issue</div><div class='item'>Policy value of the securities in contention = $250,000</div>",
       "triggerFactors":"Acceptance and Release of all Claims Complete",
       "acttionDetails":"Cancelled policy and paid entire value of initial investment for 11 securities $250,000 USD for mis-selling of the product",
-      "status":"approved",
+      "status":"pending",
+      "createdBy":"insurer2",
       "createdDate":"27MAY2018"
     }
   ]
