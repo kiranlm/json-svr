@@ -9,6 +9,6 @@
     "mongoose": "5.9.10",    
     "bcrypt": "0.7.7",
     "moment": "2.24.0",
-    "jwt-simple": "0.2.0"
+    "jwt-simple": "0.5.6"
   }
 }
